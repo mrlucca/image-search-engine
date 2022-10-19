@@ -1,0 +1,3 @@
+
+def background_image_processor():
+    ...
